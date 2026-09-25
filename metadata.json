@@ -1,0 +1,6 @@
+{
+  "name": "Beat Pack Brasil 2026 - Pack de Músicas VIP",
+  "description": "Mais de 150 mil músicas atualizadas 2026 em 320kbps sem vinhetas para som automotivo, pen drive e celular. Checkout transparente de alta conversão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
